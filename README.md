@@ -4,4 +4,4 @@ Lecture notes from Stanford professor Jennifer Widom's [online mini-courses](htt
 
 The notes were made in Jupyter running a Python 2 kernel with SQL magic. Code cells view can be turned on/off as desired, thanks to this [javascript snippet](http://stackoverflow.com/questions/27934885/how-to-hide-code-from-cells-in-ipython-notebook-visualized-with-nbviewer). Table of contents were created for the rather long SQL notes document with [kmahelona's script](https://github.com/kmahelona/ipython_notebook_goodies). (Neither work in GitHub's online ipynb-viewer.)
 
-The lecture notes are available in ipython notebook format and in HTML. To view the HTML version of the document, the simplest is probably to download the zipped folder and view it in your desired browser locally.
+The lecture notes are available in ipython notebook format and in HTML. To view the HTML version of the document, the simplest is probably to paste the url of the Jnotebooks into <http://nbviewer.jupyter.org/>, or you could download the zipped folder and view it in your desired browser locally,.
